@@ -1,0 +1,7 @@
+- Use English
+- Create README
+- Add licence
+
+- Track population size over time
+- Track male / female ratio over time
+- Animate (gif) age by sex distribution over time
