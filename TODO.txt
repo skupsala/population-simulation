@@ -5,3 +5,5 @@
 - Track population size over time
 - Track male / female ratio over time
 - Animate (gif) age by sex distribution over time
+- Do not use inplace=True
+- Rename initial dataframes to stats_
