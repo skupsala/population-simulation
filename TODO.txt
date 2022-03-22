@@ -1,9 +1,13 @@
 - Use English
-- Create README
 - Add licence
 
 - Track population size over time
 - Track male / female ratio over time
-- Animate (gif) age by sex distribution over time
 - Do not use inplace=True
-- Rename initial dataframes to stats_
+- Do not display all intermediating images on simulation
+- Plot population size over time (both total, males, females)
+
+- Implement birth model
+
+BONUS:
+- track evolution of people born in specific year in animation
