@@ -2,7 +2,7 @@
 
 This is a simple population simulation based on Finnish population data.
 
-Main simulation is inside Jupyter notebook: notebooks/simulation.ipynb
+Main simulation is inside Jupyter notebook: [notebooks/simulation.ipynb](https://github.com/skupsala/population-simulation/blob/main/notebooks/simulation.ipynb)
 
 ## Getting started
 
