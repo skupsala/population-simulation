@@ -1,13 +1,24 @@
-- Use English
 - Add licence
 
-- Track population size over time
 - Track male / female ratio over time
-- Do not use inplace=True
-- Do not display all intermediating images on simulation
-- Plot population size over time (both total, males, females)
+- Add death year to death dataframe so that it is possible to reconstruct lifetime expectation on given simulation year etc
 
-- Implement birth model
+
+Concepts:
+- Conditional probability distribution
+- TODO: Conditional expectation value
+- TODO: variance
+- TODO: independence
+
+Ideas:
+- TODO: Conditional expectation
+  1. Create risk of death (conditioned by sex) probability distribution (density function) with Gaussian KDE
+  2. Calculate conditional expectation of risk by sex via Monte Carlo method
+  3. Show traceplot of Monte Carlo method estimation and link it to law of large numbers
+
+
+Sisältää vähintään kolme olennaista laskutoimitusta seuraavista: ehdollinen odotusarvo, riippumattomuus, tiheysfunktio, korrelaatio, varianssi.
+
 
 BONUS:
 - track evolution of people born in specific year in animation
