@@ -12,10 +12,15 @@ Concepts:
 
 Ideas:
 - TODO: Conditional expectation
-  1. Create risk of death (conditioned by sex) probability distribution (density function) with Gaussian KDE
-  2. Calculate conditional expectation of risk by sex via Monte Carlo method
+  1. Create life expectancy (conditioned by sex) probability distribution (density function) with Gaussian KDE
+  2. Calculate conditional expectation of life expectancy by sex via Monte Carlo method
   3. Show traceplot of Monte Carlo method estimation and link it to law of large numbers
-
+  4. Create a function to do steps 1-3 for any given simulated year
+  5. Write a bit of the KDE theory
+  6. Write more on the conditional expectancy and about the Monte Carlo estimation and law of large numbers
+- TODO: Variance - Simple demonstration
+  - Calculate sample variance of the newborn baby's sex and compare it to given probabilty and theoretical Bernoulli distribution variance
+- TODO: Correlation - Pearson 
 
 Sisältää vähintään kolme olennaista laskutoimitusta seuraavista: ehdollinen odotusarvo, riippumattomuus, tiheysfunktio, korrelaatio, varianssi.
 
