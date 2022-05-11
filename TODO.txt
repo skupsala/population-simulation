@@ -4,6 +4,10 @@
 - Add death year to death dataframe so that it is possible to reconstruct lifetime expectation on given simulation year etc
 
 
+- Write
+
+
+
 Concepts:
 - Conditional probability distribution
 - TODO: Conditional expectation value
